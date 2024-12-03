@@ -5,8 +5,8 @@ class Worker {
         this.id = id;
         this.commandCenter = commandCenter;
         this.isRunning = false;
-        this.username = "Njomzanr";
-        this.password = "xQ.6FC+N,*AGTc.";
+        this.username = "Manjomane";
+        this.password = "njongoyayo";
         this.claimCount = 0;
         this.totalXRP = 0;
         this.cookies = null;
